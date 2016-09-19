@@ -8,9 +8,6 @@ Requirements:
 Usage:
 ./create_instance.py --help
 
-sage: create_instance.py [-h] -r REGION -n NUMBEROFREADISSERRVERS -k KEY
-                          [-v VPC] [-s SUBNET] [-c CIDR]
-
 This script creates Redis clusters in AWS
 
 optional arguments:
